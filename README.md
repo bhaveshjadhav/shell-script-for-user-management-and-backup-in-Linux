@@ -34,5 +34,3 @@ Each script is self-contained and can be run independently. Make sure to review 
    ```bash
    git clone https://github.com/bhavesh053/shellscriptforusermanagementandbackupinlinux.git
    cd shellscriptforusermanagementandbackupinlinux
-
-   This project is licensed under the MIT LICENCE
